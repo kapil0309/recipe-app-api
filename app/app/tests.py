@@ -1,4 +1,4 @@
-from djangorest.test import TestCase
+from django.test import TestCase
 
 from app.calc import add
 
